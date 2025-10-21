@@ -1,0 +1,14 @@
+C:\Users\53101823811\Desktop\back-end\DesafioMenuFuncao\bin\Debug\net9.0\DesafioMenuFuncao.exe
+C:\Users\53101823811\Desktop\back-end\DesafioMenuFuncao\bin\Debug\net9.0\DesafioMenuFuncao.deps.json
+C:\Users\53101823811\Desktop\back-end\DesafioMenuFuncao\bin\Debug\net9.0\DesafioMenuFuncao.runtimeconfig.json
+C:\Users\53101823811\Desktop\back-end\DesafioMenuFuncao\bin\Debug\net9.0\DesafioMenuFuncao.dll
+C:\Users\53101823811\Desktop\back-end\DesafioMenuFuncao\bin\Debug\net9.0\DesafioMenuFuncao.pdb
+C:\Users\53101823811\Desktop\back-end\DesafioMenuFuncao\obj\Debug\net9.0\DesafioMenuFuncao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53101823811\Desktop\back-end\DesafioMenuFuncao\obj\Debug\net9.0\DesafioMenuFuncao.AssemblyInfoInputs.cache
+C:\Users\53101823811\Desktop\back-end\DesafioMenuFuncao\obj\Debug\net9.0\DesafioMenuFuncao.AssemblyInfo.cs
+C:\Users\53101823811\Desktop\back-end\DesafioMenuFuncao\obj\Debug\net9.0\DesafioMenuFuncao.csproj.CoreCompileInputs.cache
+C:\Users\53101823811\Desktop\back-end\DesafioMenuFuncao\obj\Debug\net9.0\DesafioMenuFuncao.dll
+C:\Users\53101823811\Desktop\back-end\DesafioMenuFuncao\obj\Debug\net9.0\refint\DesafioMenuFuncao.dll
+C:\Users\53101823811\Desktop\back-end\DesafioMenuFuncao\obj\Debug\net9.0\DesafioMenuFuncao.pdb
+C:\Users\53101823811\Desktop\back-end\DesafioMenuFuncao\obj\Debug\net9.0\DesafioMenuFuncao.genruntimeconfig.cache
+C:\Users\53101823811\Desktop\back-end\DesafioMenuFuncao\obj\Debug\net9.0\ref\DesafioMenuFuncao.dll
